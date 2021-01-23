@@ -1,0 +1,1 @@
+export const GRAPHQL_RICK_AND_MORTY = 'https://rickandmortyapi.com/graphql'
